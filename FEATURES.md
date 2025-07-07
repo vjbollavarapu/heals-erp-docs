@@ -26,7 +26,7 @@ HEALS combines the power of:
 
 ## 🌐 Official Website: [https://healserp.cloud](https://healserp.cloud)
 
-### 🌟 Current Goals:
+### 🎯 Current Goals:
 
 We want to **redesign and enhance the website** to:
 
@@ -98,7 +98,49 @@ We want to **redesign and enhance the website** to:
 
 ---
 
-## 👨‍💻 Target Audience
+## 📄 FEATURES.md – Modules and Functional Scope
+
+### Clinical Modules
+
+* **Outpatient Department (OPD)**: Appointments, visit notes, prescriptions, referrals
+* **Inpatient Department (IPD)**: Admissions, ward/bed management, discharge summary
+* **Emergency & Ambulance**: Triage, ambulance dispatch, trauma handling
+* **Radiology**: Requests, PACS integration, imaging workflows
+* **Laboratory (LIS)**: Test orders, sample tracking, results entry, lab analytics
+* **Surgery/Theatre Management**: Scheduling, OT usage, surgical notes
+* **Nursing Workflow**: Rounds, vitals, tasks, care plans
+* **Pharmacy**: Dispensing, stock alerts, drug interaction warnings
+
+### AI-Powered Features
+
+* Smart consultation assistant (diagnosis suggestions, triage automation)
+* Predictive patient risk scoring
+* AI-based nurse task routing
+* NLP-driven clinical documentation
+
+### Administrative & Financial Modules
+
+* **HRMS**: Attendance, leave, performance, shifts
+* **Payroll**: Salary rules, deductions, auto-payroll
+* **Finance**: Invoicing, collections, cash flow tracking
+* **Procurement & Inventory**: Vendors, orders, tracking
+* **Facility & Asset Management**: AMC alerts, maintenance, asset logs
+
+### Interoperability & Integrations
+
+* HL7, FHIR API-ready
+* PACS, LIS, Insurance APIs
+* Mobile apps for doctors, nurses, patients (Flutter-based)
+
+### Compliance
+
+* HIPAA-ready architecture
+* GDPR alignment (for international clients)
+* Data encryption at rest and in transit
+
+---
+
+## 👨‍💼 Target Audience
 
 * Hospital CIOs / CTOs / COOs
 * Health system procurement teams
