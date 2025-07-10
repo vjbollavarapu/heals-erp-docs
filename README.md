@@ -7,10 +7,10 @@ HEALS ERP is a **comprehensive, AI-powered, modular enterprise solution** built 
 ## 🏥 What Is HEALS ERP?
 
 HEALS stands for:
-**H**ospital  
+**H**ealthcare  
 **E**nterprise  
 **A**dministration  
-**L**ive  
+**L**ogistics  
 **S**ystem
 
 HEALS combines the power of:
